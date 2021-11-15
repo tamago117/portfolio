@@ -1,5 +1,5 @@
 # portfolio
-たまごっちのportfolioページ
+のportfolioページ
 
 https://tamago117.github.io/portfolio/
 ## reference
